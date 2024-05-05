@@ -1,7 +1,7 @@
 angular-materialize
 ===================
 
-**angular-materialize** in action http://krescruz.github.io/angular-materialize/
+** forked angular-materialize with fixed broken dependencies** in action http://krescruz.github.io/angular-materialize/
 
 This library is a set of AngularJS directives which make it possible to use features from [Materialize](http://materializecss.com/) with AngularJS.
 It is basically a set of directives, which calls the JavaScript functions defined by Materialize. This means that you still need to include Materialize for this to work. 
